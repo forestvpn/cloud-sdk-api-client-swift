@@ -23,4 +23,5 @@
 #!docs/README.md
 
 README.md
-ForestVPNCloudSDKAPI.podspec
+#ForestVPNCloudSDKAPI.podspec
+.gitignore

@@ -1,5 +1,6 @@
 .gitignore
 Cartfile
+ForestVPNCloudSDKAPI.podspec
 ForestVPNCloudSDKAPIClient/Classes/APIHelper.swift
 ForestVPNCloudSDKAPIClient/Classes/APIs.swift
 ForestVPNCloudSDKAPIClient/Classes/APIs/AuthAPI.swift
