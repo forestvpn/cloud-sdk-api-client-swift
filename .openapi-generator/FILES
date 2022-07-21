@@ -1,6 +1,5 @@
 .gitignore
 Cartfile
-ForestVPNCloudSDKAPI.podspec
 ForestVPNCloudSDKAPIClient/Classes/APIHelper.swift
 ForestVPNCloudSDKAPIClient/Classes/APIs.swift
 ForestVPNCloudSDKAPIClient/Classes/APIs/AuthAPI.swift
@@ -13,6 +12,8 @@ ForestVPNCloudSDKAPIClient/Classes/JSONEncodingHelper.swift
 ForestVPNCloudSDKAPIClient/Classes/Models.swift
 ForestVPNCloudSDKAPIClient/Classes/Models/AccessToken.swift
 ForestVPNCloudSDKAPIClient/Classes/Models/AccessTokenRequest.swift
+ForestVPNCloudSDKAPIClient/Classes/Models/DeviceInfo.swift
+ForestVPNCloudSDKAPIClient/Classes/Models/DeviceType.swift
 ForestVPNCloudSDKAPIClient/Classes/Models/ModelError.swift
 ForestVPNCloudSDKAPIClient/Classes/Models/ModelProtocol.swift
 ForestVPNCloudSDKAPIClient/Classes/Models/Profile.swift
@@ -20,10 +21,11 @@ ForestVPNCloudSDKAPIClient/Classes/OpenISO8601DateFormatter.swift
 ForestVPNCloudSDKAPIClient/Classes/SynchronizedDictionary.swift
 ForestVPNCloudSDKAPIClient/Classes/URLSessionImplementations.swift
 Package.swift
-README.md
 docs/AccessToken.md
 docs/AccessTokenRequest.md
 docs/AuthAPI.md
+docs/DeviceInfo.md
+docs/DeviceType.md
 docs/ModelError.md
 docs/ModelProtocol.md
 docs/Profile.md
